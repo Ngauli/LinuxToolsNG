@@ -1,2 +1,2 @@
-echo "Hello Mom and Dad"
+echo "Mom and Dad"
 echo " Love them"
